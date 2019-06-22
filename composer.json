@@ -1,0 +1,16 @@
+{
+  "name": "mykemeynell/html-currency-entities",
+  "description": "Object of HTML currency entities mapped to their corresponding Alpha-3 (ISO 4217) representation",
+  "keywords": ["currency", "php", "html", "entities", "ISO 4217", "alpha3"],
+  "authors": [
+    {
+      "name": "Myke Meynell",
+      "email": "iam@mykemeynell.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "mykemeynell\\Support\\": "src/"
+    }
+  }
+}
